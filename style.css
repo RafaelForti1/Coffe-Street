@@ -1,0 +1,24 @@
+* {
+    background: #F6EBDA;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    display: flex;
+    padding: 70px 0 225px 143px;
+}
+
+.coffe_logo {
+    margin-right: 269px;
+}
+
+.link {
+    margin-right: 32px;
+    text-decoration: none;
+    color: black;
+}
+
+.about_us {
+    color: #FF902B;
+}
