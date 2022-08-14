@@ -7,7 +7,7 @@
 
 .navigation {
     display: flex;
-    padding: 70px 0 225px 143px;
+    padding: 70px 0 160px 143px;
 }
 
 .coffe_logo {
@@ -38,6 +38,7 @@
     height: 40px;
     padding: 11px;
     font-size: 12px;
+    
     line-height: 18px;
     border: none;
     background: #fff url(/Images/search-icon.png) no-repeat 90% center;
@@ -71,6 +72,7 @@
 .coffe__image {
     position: absolute;
     width: 526.71px;
-    margin-left: 799px;
-
+    height: 416px;
+    left: 791px;
+    top: 200px;
 }
