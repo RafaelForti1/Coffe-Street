@@ -2,6 +2,7 @@
     background: #F6EBDA;
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
 }
 
 .navigation {
@@ -14,11 +15,62 @@
 }
 
 .link {
-    margin-right: 32px;
+    margin-right: 30px;
     text-decoration: none;
     color: black;
+    font-size: 18px;
+    line-height: 27px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
 }
 
 .about_us {
     color: #FF902B;
+}
+
+.search {
+    background: #FFFFFF;
+    border-radius: 35px;
+    width: 222px;
+    height: 40px;
+    padding: 11px;
+    font-size: 12px;
+    line-height: 18px;
+    border: none;
+    background: #fff url(/Images/search-icon.png) no-repeat 90% center;
+}
+
+.cart {
+    margin: 18px 10px;
+    padding-left: 12px;
+}
+
+.tittle-main {
+    font-size: 48px;
+    line-height: 72px;
+    color: #2F2105;
+    padding-top: 14px;
+    padding-left: 143px;
+}
+
+.coffe {
+    color: #FF902B;
+}
+
+.subtittle {
+    font-size: 18px;
+    line-height: 27px;
+    color: #7E7D7A;
+    padding-left: 143px;
+    padding-top: 24px;
+}
+
+.coffe__image {
+    position: absolute;
+    width: 526.71px;
+    margin-left: 799px;
+
 }
